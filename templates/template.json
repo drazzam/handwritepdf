@@ -1,0 +1,44 @@
+{
+  "name": "FamilyMedicine_2page",
+  "page_sizes": [[0,0],[0,0]],
+  "date":        { "page": 0, "x": 0, "y": 0, "w": 0, "h": 24 },
+  "age_gender":  { "page": 0, "x": 0, "y": 0, "w": 0, "h": 24 },
+  "main_theme":  { "page": 0, "x": 0, "y": 0, "w": 0, "h": 24 },
+  "case_summary":     { "page": 0, "x": 0, "y": 0, "w": 0, "h": 120 },
+  "self_reflect_do":  { "page": 0, "x": 0, "y": 0, "w": 0, "h": 80 },
+  "self_reflect_dev": { "page": 0, "x": 0, "y": 0, "w": 0, "h": 80 },
+  "epa_boxes": null,
+  "trainer_rows": [
+    {
+      "epa":      { "page": 1, "x": 0, "y": 0, "w": 70, "h": 28 },
+      "rubric":   { "page": 1, "x": 0, "y": 0, "w": 70, "h": 28 },
+      "strength": { "page": 1, "x": 0, "y": 0, "w": 300, "h": 80 },
+      "improve":  { "page": 1, "x": 0, "y": 0, "w": 300, "h": 80 }
+    },
+    {
+      "epa":      { "page": 1, "x": 0, "y": 0, "w": 70, "h": 28 },
+      "rubric":   { "page": 1, "x": 0, "y": 0, "w": 70, "h": 28 },
+      "strength": { "page": 1, "x": 0, "y": 0, "w": 300, "h": 80 },
+      "improve":  { "page": 1, "x": 0, "y": 0, "w": 300, "h": 80 }
+    },
+    {
+      "epa":      { "page": 1, "x": 0, "y": 0, "w": 70, "h": 28 },
+      "rubric":   { "page": 1, "x": 0, "y": 0, "w": 70, "h": 28 },
+      "strength": { "page": 1, "x": 0, "y": 0, "w": 300, "h": 80 },
+      "improve":  { "page": 1, "x": 0, "y": 0, "w": 300, "h": 80 }
+    }
+  ],
+  "sizes": {
+    "date": 16.08,
+    "age_gender": 16.08,
+    "main_theme": 16.08,
+    "case_summary": 14.0,
+    "self_reflection": 14.0,
+    "epa_col": 24.0,
+    "rubric_col": 24.0,
+    "strength_col": 14.0,
+    "improve_col": 14.0,
+    "epa_checkbox": 14.0
+  },
+  "color_hex": "#1F4FB2"
+}
