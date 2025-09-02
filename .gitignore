@@ -1,0 +1,99 @@
+# -------------------------
+# OS junk
+# -------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# -------------------------
+# Python caches / artifacts
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Virtual environments
+# -------------------------
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.python-version
+pip-wheel-metadata/
+
+# -------------------------
+# Build / dist
+# -------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -------------------------
+# Logs / temp
+# -------------------------
+logs/
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.cache/
+
+# -------------------------
+# Testing / coverage
+# -------------------------
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# IDE / editor settings
+# -------------------------
+.vscode/
+.idea/
+*.code-workspace
+.spyproject/
+.history/
+
+# -------------------------
+# Streamlit
+# -------------------------
+.streamlit/secrets.toml
+.streamlit/state.json
+
+# -------------------------
+# Local outputs (optional)
+# Put any generated files here to avoid committing them
+# -------------------------
+outputs/
+tmp/
+*.tmp
+
+# If you generate filled PDFs in the repo root, ignore them:
+filled_*.pdf
+output_*.pdf
+generated_*.pdf
+
+# -------------------------
+# Notes
+# -------------------------
+# Keep these tracked in the repo (do NOT ignore):
+#   assets/forms/empty_form.pdf
+#   assets/fonts/MyHand.ttf
+#   templates/template.json
+# Consider Git LFS for large binaries (PDF/TTF/OTF) if they grow big.
